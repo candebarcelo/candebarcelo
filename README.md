@@ -4,7 +4,7 @@ Hi 👋 My name is Candelaria Barceló
 Full Stack Developer
 --------------------
 
-IT & Administration student at UBA, and currently working as a Tax Analyst. I am currently looking to switch over from Finance to start my career in development. I am a very focused and passionate person who believes that it is crucial to pursue the continuous improvement of the processes and of myself, through lifelong learning.
+IT student at UBA, and currently working as a Full Stack Developer. I am a very focused and passionate person who believes that it is crucial to pursue the continuous improvement of the processes and of myself, through lifelong learning.
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [barcelo.candelaria@gmail.com](mailto:barcelo.candelaria@gmail.com)
