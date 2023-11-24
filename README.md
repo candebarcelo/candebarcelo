@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">IT student at UBA, and currently working as a Full Stack Developer. I am a very focused and passionate person who believes that it is crucial to pursue the continuous improvement of the processes and of myself, through lifelong learning.<br><br>🌍 I'm based in Buenos Aires, Argentina<br>✉️ You can contact me at barcelo.candelaria@gmail.com<br>🧠 I'm learning more about back-end development.<br>🤝 I'm open to collaborating on any group projects that will allow me to continue to learn and grow.</p>
+<p align="left">IT student at UBA and currently working as a Full Stack Developer, mainly with Angular, .NET Core and PostgreSQL. I am a very focused and passionate person who believes that it is crucial to pursue the continuous improvement of the processes and of myself, through lifelong learning.<br><br>🌍 I'm based in Buenos Aires, Argentina<br>✉️ You can contact me at barcelo.candelaria@gmail.com<br>🧠 I'm currently learning more about AWS.<br>🤝 I'm open to collaborating on any group projects that will allow me to continue to learn and grow.</p>
 
 ###
 
@@ -17,13 +17,15 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -32,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
