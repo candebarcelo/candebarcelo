@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">IT student at UBA and currently working as a Full Stack Developer, mainly with Angular, .NET Core and PostgreSQL. I am a very focused and passionate person who believes that it is crucial to pursue the continuous improvement of the processes and of myself, through lifelong learning.<br><br>🌍 I'm based in Buenos Aires, Argentina<br>✉️ You can contact me at barcelo.candelaria@gmail.com<br>🧠 I'm currently learning more about AWS.<br>🤝 I'm open to collaborating on any group projects that will allow me to continue to learn and grow.</p>
+<p align="left">UBA IT Bachelor's graduate and currently working as a Full Stack Developer, using tech stacks including Angular with C# .NET Core and React with Python. I am a very focused and passionate person who believes that it is crucial to pursue the continuous improvement of the processes and of myself, through lifelong learning.<br><br>🌍 I'm based in Buenos Aires, Argentina<br>✉️ You can contact me at barcelo.candelaria@gmail.com<br>🧠 I'm currently learning more about AWS.<br>🤝 I'm open to collaborating on any group projects that will allow me to continue to learn and grow.</p>
 
 ###
 
